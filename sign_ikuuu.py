@@ -81,7 +81,7 @@ def playwright_login(email, passwd):
 
         # 打开登录页
         page.goto(
-            'https://ikuuu.win/auth/login',
+            'https://ikuuu.pw/auth/login',
             wait_until='networkidle'
         )
 
